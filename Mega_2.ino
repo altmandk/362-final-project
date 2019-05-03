@@ -1,6 +1,5 @@
 
 /*  Nathan Jantz       - njantz2
- *  Karen Chan         - kchan43
  *  Ebrahim Broachwala - ebroac2
  *  Derek Altman       - daltma3
  *
